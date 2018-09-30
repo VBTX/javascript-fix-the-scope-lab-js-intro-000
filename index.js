@@ -10,10 +10,10 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-
+const two = 2;
 function add2(n) {
 return parseInt(n,10);
-return "n + two";
+
 
 
 }
